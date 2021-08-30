@@ -1,4 +1,5 @@
 # WorldMap
+Project completed in December 2020
 Coursework in C#, WinForms. World Map game.
 This coursework is one of my first projects.
 The essence of the game is to click on the countries that the game calls you.
